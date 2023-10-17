@@ -83,6 +83,7 @@ int display(){
   printf("%d",stack[i]);
  }
  printf("\n");
+ printf("hii");
  return(0);
 }
 
